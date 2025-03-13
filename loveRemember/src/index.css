@@ -1,1 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Great+Vibes&family=Parisienne&family=Lora:wght@400;700&family=Cormorant+Garamond:wght@400;700&family=Merriweather:wght@400;700&family=Dancing+Script:wght@400;700&family=Sacramento&display=swap');
 @import "tailwindcss";
+/* Importando as fontes primeiro */
+
+/* Agora, defina as classes */
+.title-playfair {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: #C44569;
+}
+
+.title-great-vibes {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2rem;
+    color: #A7354F;
+}
+
+.title-parisienne {
+    font-family: 'Parisienne', cursive;
+    font-size: 1.8rem;
+    color: #C44569;
+}
+
+.text-lora {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    color: #5C3D31;
+}
+
+.text-cormorant {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    color: #5C3D31;
+}
+
+.text-merriweather {
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    color: #5C3D31;
+}
+
+.romantic-text {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.8rem;
+    color: #C44569;
+}
+
+.signature {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+    color: #8C5E58;
+}
